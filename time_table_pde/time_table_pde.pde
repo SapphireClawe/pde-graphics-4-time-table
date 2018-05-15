@@ -27,5 +27,7 @@ void draw() {
       text("Mr. Aker, room 107", 225, 25);
       text("Construction 20", 25, 125);
       text("Mr. Kolton, room 237", 210, 125);
+      text("Comp Sci 10", 25, 225);
+      text("Dr.Pineda, room 210", 210, 225);
   
 }
