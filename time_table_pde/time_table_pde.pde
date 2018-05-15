@@ -24,6 +24,7 @@ void draw() {
   textSize(18);
     fill(235, 211, 33);
       text("Math 30-1", 25, 25);
-      text ("Mr. Aker, room 107", 225, 25);
+      text("Mr. Aker, room 107", 225, 25);
+      text("Construction 20", 25, 125);
   
 }
